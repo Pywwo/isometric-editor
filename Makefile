@@ -1,8 +1,8 @@
 ##
 ## EPITECH PROJECT, 2018
-## AbstractVM
+## isometric editor
 ## File description:
-## Makefile for the AbstractVM
+## Makefile for the isometric editor
 ##
 
 SRC_DIR			=	$(realpath src)
